@@ -32,29 +32,32 @@ Before conducting the analysis, I cleaned and prepared the dataset to ensure dat
 
 ## 5. Visualizations & Findings
 
-### 5.1 Average Ride Duration by Rider Type<img width="500" height="332" alt="Capstone Project_Duration   day of week_Bar chart (1)" src="https://github.com/user-attachments/assets/2a20990e-addb-44b8-8df7-6fc8227d9c79" />
+### 5.1 Average Ride Duration by Rider Type
 
-<img width="500" height="332" alt="Capstone Project_Duration   day of week_Bar chart" src="https://github.com/user-attachments/assets/206a63d5-4c5f-4382-86ad-5e99e5b61523" />
+<img width="500" height="332" alt="Capstone Project_Duration   day of week_Bar chart" src="https://github.com/user-attachments/assets/fdbb1006-475d-4501-a5a3-0a0cf7c39b85" />
 
 * **Finding:** Casual rides averaged 19.13 minutes, compared with 11.95 minutes for member rides.
 
-### 5.2 Ride Duration Thresholds by Rider Type<img width="500" height="332" alt="Capstone Project_Duration   day of week_Bar chart (2)" src="https://github.com/user-attachments/assets/04b8ee39-3897-48e1-9c79-78da18ba40ef" />
-<img width="500" height="332" alt="Capstone Project_Duration   day of week_Bar chart (2)" src="https://github.com/user-attachments/assets/6a93a7d9-724a-4b1e-b4dc-4da9110c868e" />
+### 5.2 Ride Duration Thresholds by Rider Type
 
 <img width="500" height="332" alt="Capstone Project_Duration   day of week_Bar chart (1)" src="https://github.com/user-attachments/assets/d90d34e5-70ba-4d80-80af-9eae80a5a22f" />
 
 * **Finding:** Casual riders consistently exhibit a higher percentage of long-duration trips than members across 15, 20, and 30-minute markers.
 
 ### 5.3 Rides by Day of Week
+
 <img width="500" height="332" alt="Capstone Project_Duration   day of week_Bar chart (2)" src="https://github.com/user-attachments/assets/270a746b-be3e-4fb9-ac18-a8f97d3eeb9e" />
 
 * **Finding:** Members maintain high, stable volume on weekdays for routine utility, while casual riders peak on Saturday and Sunday for leisure.
 
 ### 5.4 Monthly Rides by Rider Type
+
 <img width="500" height="332" alt="Capstone Project_Month   time of day_Time series" src="https://github.com/user-attachments/assets/73a0e1cf-b643-4542-b86a-b6aaafb3a9a0" />
+
 * **Finding:** Casual ridership is highly seasonal, concentrating heavily during June, July, and August.
 
 ### 5.5 Rides by Time of Day
+
 <img width="500" height="332" alt="Capstone Project_Month   time of day_Bar chart" src="https://github.com/user-attachments/assets/72a05d2f-18ee-406e-b219-70448b88e74d" />
 
 * **Finding:** While the afternoon holds the highest total absolute volume of casual rides, night rides represent the highest percentage share of casual activity.
